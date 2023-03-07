@@ -2,7 +2,7 @@
   "name": "savabyte-api",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sankaire/savabyte-api.git",
+  "repository": "https://github.com/sankaire/express-ts-starter.git",
   "author": "sankaire <kerenketepela@gmail.com>",
   "license": "MIT",
   "type": "module",
